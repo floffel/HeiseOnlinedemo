@@ -1,0 +1,16 @@
+CACHE MANIFEST
+
+# Cache the whole content (if someone whants to see the Rocket again ;) )
+CACHE:
+rocket.js
+raumstation.js
+jquery-2.0.3.min.js
+three.min.js
+underscore.js
+Detector.js
+helvetiker_regular.typeface.js
+Tween.js
+Sparks.js
+ThreeSparks.js
+THREEx.FullScreen.js
+howler.min.js
